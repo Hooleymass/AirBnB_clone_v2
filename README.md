@@ -8,7 +8,7 @@
 - [AirBnB clone](https://intranet.alxswe.com/concepts/74)
 
 <p align="center">
-    <img src="https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2018/6/65f4a1dd9c51265f49d0.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20230706%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230706T033942Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=c55326790c66e7d553a70edfec0f42c470a5877e84d1ece007d8059d63a6b207" alt="Airbnb">
+    <img src="https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2018/6/65f4a1dd9c51265f49d0.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20230706%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230706T013701Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=63a67995d434c4acc10e11414e859db4c4ed63acd0bfde0c5f510d3ea03c5af4" alt="Airbnb">
 </p>
 
 <details>
